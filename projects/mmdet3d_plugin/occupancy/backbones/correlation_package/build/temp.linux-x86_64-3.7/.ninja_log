@@ -1,0 +1,5 @@
+# ninja log v5
+1	28936	1730702855102279414	/data/B221000559-XYJ/project/WM-Project/robust_ssc/UPFlow_pytorch/model/correlation_package/build/temp.linux-x86_64-3.7/correlation_cuda_kernel.o	7b0075b69b3e50ae
+1	24762	1730703318108591586	/data/B221000559-XYJ/project/WM-Project/robust_ssc/UPFlow_pytorch/model/correlation_package/build/temp.linux-x86_64-3.7/correlation_cuda_kernel.o	8d0a1ec396acda66
+0	24298	1730709895207395180	/data/B221000559-XYJ/project/WM-Project/robust_ssc/UPFlow_pytorch/model/correlation_package/build/temp.linux-x86_64-3.7/correlation_cuda_kernel.o	502970bb99cfe74b
+0	16790	1730711404896961220	/data/B221000559-XYJ/project/WM-Project/robust_ssc/UPFlow_pytorch/model/correlation_package/build/temp.linux-x86_64-3.7/correlation_cuda.o	2163aaf8993e441d
