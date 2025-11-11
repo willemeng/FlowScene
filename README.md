@@ -75,13 +75,10 @@ python setup.py install
 bash process_kitti.sh
 ```
 
-# Pretrained Model
-
-Download the [RepViT-M2.3-300e](https://github.com/THU-MIG/RepViT/releases/download/v1.0/repvit_m2_3_distill_300e.pth).
 
 
 # Training & Evaluation
-
+Download the [RepViT-M2.3-300e](https://github.com/THU-MIG/RepViT/releases/download/v1.0/repvit_m2_3_distill_300e.pth).
 ## Single GPU
 - **Train with single GPU:**
 ```
