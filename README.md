@@ -1,5 +1,5 @@
 # FlowScene
-[NeurIPS 25] Learning Temporal 3D Semantic Scene Completion via Optical Flow Guidance
+[NeurIPS'2025] Learning Temporal 3D Semantic Scene Completion via Optical Flow Guidance
 
 # Teaser
 - **Comparison with VoxFormer on SemanticKITTI:**
@@ -69,11 +69,6 @@ python setup.py install
      - The **Odometry calibration** (Download odometry data set (calibration files)) and the **RGB images** (Download odometry data set (color)) from [KITTI Odometry website](http://www.cvlibs.net/datasets/kitti/eval_odometry.php), extract them to the folder `data/occupancy/semanticKITTI/RGB/`.
      - The **Velodyne point clouds** (Download [data_odometry_velodyne](http://www.cvlibs.net/download.php?file=data_odometry_velodyne.zip)) and the **SemanticKITTI label data** (Download [data_odometry_labels](http://www.semantic-kitti.org/assets/data_odometry_labels.zip)) for sparse LIDAR supervision in training process, extract them to the folders ``` data/lidar/velodyne/ ``` and ``` data/lidar/lidarseg/ ```, separately. 
 
-
-- **b. Prepare KITTI voxel label (see sh file for more details)**
-```
-bash process_kitti.sh
-```
 
 
 
